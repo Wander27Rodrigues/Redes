@@ -1,4 +1,4 @@
 # Redes
-Simulador VLAN
+Simuladores
 
-Apenas testand os conhecimento realizando algumas configurações de VLAN.
+Apenas testando os conhecimento realizando algumas configurações de VLAN e Routers
